@@ -4,4 +4,4 @@ some new text!
 
 ## subheader
 
-Some more text
+Some more new text
